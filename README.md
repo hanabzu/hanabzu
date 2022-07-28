@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **hanabzu/hanabzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:4FBD99,50:2A899B,100:003E8D&height=300&section=header&text=hanabzu&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
+
+<a href="https://pedia.watcha.com/ko-KR/users/8nPvyoO26xYo0"><img src="https://user-images.githubusercontent.com/76643387/181499667-f6f7fd9d-ad81-494f-801e-b69a5e07591c.png" height="40px" width="40px"></a> 영화 좋아하는 사람 (●'◡'●) 
+
